@@ -3,6 +3,7 @@ Amazing Data Engineering skills
 
 
 Hard Skills 😎
+
 📌 Created e-to-e scalable Real time data streaming application using Apache Flink, Phase-1 completed and deployed in production
 📌 Explored Apache Flink in-depth : Architecture, Pros & Cons, Functionalities, Challenges, Optimization techniques and Best practices, State Management, Savepointing & Chekpointing, High Availbility
 📌 Confluent Kafka & Kafka Connect
